@@ -1,12 +1,12 @@
-//imports libs and packages 
+
 import 'package:flutter/material.dart';
 import 'view/screen/splashScreen2.dart';
-//=====================================
+
 void main(){
   runApp(const MyApp());
 }
 
-//============== oop ================
+
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
   @override
